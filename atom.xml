@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://shaobing.github.io</id>
+    <id>https://https://shaobingma.github.io</id>
     <title>烧饼的个人博客</title>
-    <updated>2022-04-13T17:57:22.061Z</updated>
+    <updated>2022-04-13T18:04:11.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://shaobing.github.io"/>
-    <link rel="self" href="https://https://shaobing.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://shaobingma.github.io"/>
+    <link rel="self" href="https://https://shaobingma.github.io/atom.xml"/>
     <subtitle>学无止境，知耻后勇</subtitle>
-    <logo>https://https://shaobing.github.io/images/avatar.png</logo>
-    <icon>https://https://shaobing.github.io/favicon.ico</icon>
+    <logo>https://https://shaobingma.github.io/images/avatar.png</logo>
+    <icon>https://https://shaobingma.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 烧饼的个人博客</rights>
     <entry>
         <title type="html"><![CDATA[wolf]]></title>
-        <id>https://https://shaobing.github.io/post/wolf/</id>
-        <link href="https://https://shaobing.github.io/post/wolf/">
+        <id>https://https://shaobingma.github.io/post/wolf/</id>
+        <link href="https://https://shaobingma.github.io/post/wolf/">
         </link>
         <updated>2022-04-13T14:56:11.000Z</updated>
         <content type="html"><![CDATA[<p>😊测试</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://shaobing.github.io/post/hello-gridea/</id>
-        <link href="https://https://shaobing.github.io/post/hello-gridea/">
+        <id>https://https://shaobingma.github.io/post/hello-gridea/</id>
+        <link href="https://https://shaobingma.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
